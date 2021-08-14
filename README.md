@@ -1,5 +1,5 @@
 # KotlinTutorial
-This repo outlines basic concepts in Kotlin such as variable, functions, interfaces and classes.
+This repo outlines basic concepts in Kotlin such as variable, functions, interfaces and classes. The code is contained in the src folder.
 
     1  Built in data types
     2  Numbers
