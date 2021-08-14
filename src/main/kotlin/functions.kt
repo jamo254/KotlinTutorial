@@ -6,6 +6,8 @@ fun main() {
     println(max)
     log("You program need BIM plugin")
 
+
+
 }
 
 fun display (name: String) {
