@@ -21,7 +21,17 @@ class Student(_id: Int): Person() {
     init {
         id = _id
     }
+
+
+    //Collections
+    fun enroll(courseName: String){
+        val course = Courses.allCourses
+            .filter{it.Title == courseName }
+            .firstOrNull()
+    }
     override fun getName(): String {
      return  " "
     }
+
+
 }
